@@ -73,5 +73,4 @@ class NhanVien(ABC):
         """
         pass
     
-    def __str__(self):
-        return self.lay_thong_tin_co_ban()
+ 
